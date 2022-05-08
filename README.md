@@ -34,7 +34,7 @@ Visit [Local Host](http://localhost/)
 
 ## 📍 Screenshots
 
-![](https://github.com/Tushar-goyal-2712/Note-Taking/blob/f6ba064cf5f957eca4c29d64fded12466f394a6f/Screenshots/design.png)
+![](https://github.com/Tushar-goyal-2712/Note-Taking-With-Title/blob/111500027e494f1c8a7b0ded971154eba11c0ef9/Screenshots/design.png)
 
 ## 📍 Deployment
 
